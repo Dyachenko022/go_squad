@@ -1,0 +1,18 @@
+{
+  "Mongodb": {
+    "dbConfig": "mongodb+srv://user:myPass@cluster-lut1g.mongodb.net/test?retryWrites=true&w=majority"
+  },
+  "jwtToken": {
+    "secret": "nodeauthsecret",
+    "tokens": {
+      "access": {
+        "type": "access",
+        "expiresIn": "60m"
+      },
+      "refresh": {
+        "type": "refresh",
+        "expiresIn": "10m"
+      }
+    }
+  }
+}

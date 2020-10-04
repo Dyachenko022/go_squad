@@ -1,0 +1,28 @@
+{
+  "name": "gosquad-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "latest",
+    "config": "^3.3.1",
+    "config-js": "^1.1.14",
+    "express": "^4.17.1",
+    "express-validator": "^6.5.0",
+    "gridfs-stream": "^1.1.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.5.8",
+    "mongoose": "^5.9.17",
+    "multer": "^1.4.2",
+    "multer-gridfs-storage": "^4.2.0",
+    "nodemon": "^2.0.4",
+    "uuid": "^8.2.0",
+    "uuidv4": "^6.2.0"
+  }
+}
