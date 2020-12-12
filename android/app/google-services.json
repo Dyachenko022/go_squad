@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "29517738290",
+    "firebase_url": "https://gosquad-c9d6c.firebaseio.com",
+    "project_id": "gosquad-c9d6c",
+    "storage_bucket": "gosquad-c9d6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29517738290:android:7f0baaea0430dc7a98672b",
+        "android_client_info": {
+          "package_name": "com.example.go_squad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29517738290-qifct67secdlqi0g55k73s6sfn9pf9vh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.go_squad",
+            "certificate_hash": "03d9313938414323ecd37cbb943144e3f6ab206b"
+          }
+        },
+        {
+          "client_id": "29517738290-qrb0fruhs0o3q2kagjcoct0vv7tcbmp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqNPEGqcEQAETxqcvYQfXhrf7WduN5Ql0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29517738290-qrb0fruhs0o3q2kagjcoct0vv7tcbmp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
